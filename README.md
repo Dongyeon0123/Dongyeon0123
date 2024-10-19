@@ -1,13 +1,26 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:cccccc&height=150&text=&animation=fadeIn&fontColor=000000&fontSize=60" />
+</div>    
+
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=eclipse,github,html,hibernate,java,mysql,php,spring,vscode)](https://skillicons.dev)
   
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #ffffff;"></h2> 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DongyeonLee&custom_title=DongyeonLee's Github Stat&theme=github_dark_dimmed" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongyeonLee&layout=compact&theme=github_dark_dimmed" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dongyeon0123&layout=compact&theme=nord" /><br>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dongyeon0123&theme=nord" /><br>
   </div>
 </div>
+
+<footer>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:cccccc&height=150&section=footer" />
+  </div>
+</footer>
+
+
+
 
 
     
