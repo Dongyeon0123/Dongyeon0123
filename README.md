@@ -22,10 +22,9 @@
   
   <h2 style="border-bottom: 1px solid #d8dee4; color: #ffffff;"></h2> 
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dongyeon0123&theme=tokyonight&show_icons=true" height="195px width="48%" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dongyeon0123&layout=compact&theme=tokyonight" height="195px" /><br>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dongyeon0123&theme=tokyonight&show_icons=true&custom_title=GitHub%20Stats" height="230px" width="51%" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dongyeon0123&layout=compact&theme=tokyonight" height="230px" width="46%" /><br>
 </div>
-
 </div><br>
 
 <footer>
