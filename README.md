@@ -27,6 +27,13 @@
 </div>
 </div><br>
 
+<p align="center">
+    <a href="https://solved.ac/ldy195112/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ldy195112" alt="Solved.ac Profile" />
+    </a>
+</p>
+
+
 <footer>
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:cccccc&height=150&section=footer" />
