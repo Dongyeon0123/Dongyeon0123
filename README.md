@@ -5,7 +5,7 @@
 <div align="center">
   
   ## 🛠 주요 기술 스택 (Main Skill)
-  <img src="https://skillicons.dev/icons?i=spring,java,hibernate,gradle,maven" alt="기술 스택" />
+  <img src="https://skillicons.dev/icons?i=spring,kotlin,java,hibernate,gradle,maven" alt="기술 스택" />
 
   ## 🔧 도구 (Tools)
   <img src="https://skillicons.dev/icons?i=mysql,eclipse,idea,vscode,github,notion" alt="사용 도구" />
