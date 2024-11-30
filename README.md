@@ -5,13 +5,13 @@
 <div align="center">
   
   ## 🛠 주요 기술 스택 (Main Skill)
-  <img src="https://skillicons.dev/icons?i=spring,kotlin,java,hibernate,gradle,maven" alt="기술 스택" />
+  <img src="https://skillicons.dev/icons?i=spring,java,hibernate,gradle,maven" alt="기술 스택" />
 
   ## 🔧 도구 (Tools)
-  <img src="https://skillicons.dev/icons?i=mysql,eclipse,idea,vscode,github,notion" alt="사용 도구" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,eclipse,idea,vscode,github,notion" alt="사용 도구" />
 
   ## 🔨 사용 경험 있는 기술 (One I've Used)
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,c,python,docker" alt="사용 경험 있는 기술" />
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,php,html,css,js,c,python,docker" alt="사용 경험 있는 기술" />
 
   ## 📞 연락처 (Contact)
   <img src="https://skillicons.dev/icons?i=instagram,gmail,discord" alt="연락처" />
