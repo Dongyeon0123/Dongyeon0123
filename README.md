@@ -29,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dongyeon0123&theme=tokyonight&show_icons=true&custom_title=GitHub%20Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyeon0123&layout=compact&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dongyeon0123&theme=tokyonight&show_icons=true&custom_title=GitHub%20Stats" height="200" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyeon0123&layout=compact&theme=tokyonight" height="200" width="46%" />
 </div>
 
 ---
