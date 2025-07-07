@@ -5,7 +5,7 @@
 <div align="center">
   
   ## 🛠 주요 기술 스택 (Main Skill)
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,redux,jquery" alt="기술 스택" height="50" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,redux" alt="기술 스택" height="50" />
 
   <br/><br/>
 
@@ -15,7 +15,8 @@
   <br/><br/>
 
   ## 🔨 사용 경험 있는 기술 (Other Skills)
-  <img src="https://skillicons.dev/icons?i=bootstrap,spring,java,hibernate,gradle,mysql,mongodb,maven,php,c,python,linux,docker,androidstudio" alt="사용 경험 있는 기술" height="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,spring,java,hibernate,gradle,mysql,mongodb" alt="사용 경험 있는 기술" height="50" /><br>
+  <img src="https://skillicons.dev/icons?i=maven,php,c,python,linux,docker,androidstudio,jquery" alt="사용 경험 있는 기술" height="50" />
 
   <br/><br/>
 
