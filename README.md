@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DongY!%F0%9F%91%8B;Frontend+Developer+%E2%9C%A8+UI%2FUX+Lover" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DongY!%F0%9F%91%8B;Frontend+Developer+%E2%9C%A8+UI%2FUX+Lover">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DongY!%F0%9F%91%8B;Frontend+Developer+%E2%9C%A8+UI%2FUX+Lover">
+    <img alt="Hi, I'm DongY! Frontend Developer UI/UX Lover" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DongY!%F0%9F%91%8B;Frontend+Developer+%E2%9C%A8+UI%2FUX+Lover">
+  </picture>
   <br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
