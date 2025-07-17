@@ -17,7 +17,7 @@
 
 <h1 align="center" style="font-weight:bold; color:#eee;">
   안녕하세요!  
-  <span style="color:#52CC7A;">Frontend Developer</span> DongY입니다 🚀
+  <span style="color:#52CC7A;">Frontend Developer</span> DongY입니다
 </h1>
 
 <p align="center">
