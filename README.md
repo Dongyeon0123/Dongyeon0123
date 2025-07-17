@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DongY!%F0%9F%91%8B;Frontend+Developer+%E2%9C%A8+UI%2FUX+Lover">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DongY!%F0%9F%91%8B;Frontend+Developer+%E2%9C%A8+UI%2FUX+Lover">
-    <img alt="Hi, I'm DongY! Frontend Developer UI/UX Lover" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DongY!%F0%9F%91%8B;Frontend+Developer+%E2%9C%A8+UI%2FUX+Lover">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DongY!%F0%9F%91%8B;Frontend+Developer%2C+UI%2FUX+Lover">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DongY!%F0%9F%91%8B;Frontend+Developer%2C+UI%2FUX+Lover">
+    <img alt="Hi, I'm DongY! Frontend Developer UI/UX Lover" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DongY!%F0%9F%91%8B;Frontend+Developer%2C+UI%2FUX+Lover">
   </picture>
   <br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -34,15 +34,15 @@
 
 ##  About Me
 
-- 🎯 직관적이고 세련된 **반응형 웹 개발**을 즐깁니다  
-- 🎨 **애니메이션과 인터랙션**으로 몰입감 있는 사용자 경험에 집중  
-- 🤝 **소통과 협업**, 코드 품질과 유지보수를 중요하게 생각합니다  
-- 🧠 꾸준히 성장하며, 사용자에게 더 나은 경험을 제공하는 것을 목표로 합니다
-- 🔥 **무엇보다 개발을 좋아하고, 누구보다 열정있는** 항상 배우려 하는 개발자가 되고싶습니다
+- 직관적이고 세련된 **반응형 웹 개발**을 즐깁니다  
+- **애니메이션과 인터랙션**으로 몰입감 있는 사용자 경험에 집중  
+- **소통과 협업**, 코드 품질과 유지보수를 중요하게 생각합니다  
+- 꾸준히 성장하며, 사용자에게 더 나은 경험을 제공하는 것을 목표로 합니다
+- **무엇보다 개발을 좋아하고, 누구보다 열정있는** 항상 배우려 하는 개발자가 되고싶습니다
 
 ---
 
-## 🛠 Main Skill Stack
+## Main Skill Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,redux" height="45" />
@@ -54,7 +54,7 @@
 
 ---
 
-## 🔧 Tools & Collaboration
+## Tools & Collaboration
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,figma,notion" height="45" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 📚 학습 & 경험 기술
+## 학습 & 경험 기술
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=spring,java,mysql,mongodb,hibernate,gradle,php,c,python,docker,linux,androidstudio,jquery" height="45" />
@@ -73,7 +73,7 @@
 
 ---
 
-## 🧩 Project Portfolio
+## Project Portfolio
 
 | 프로젝트명 | 설명 | 주요 기술 | 기간 | 링크 |
 |------------|------|-----------|------|------|
@@ -86,7 +86,7 @@
 
 ---
 
-## 💡 Experience & Growth
+## Experience & Growth
 
 - **Next.js**
   - SSR/CSR 하이브리드 구조 설계 및 App Router, 서버 액션 기반 페이지 전환 경험
@@ -111,7 +111,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dongyeon0123&theme=tokyonight&show_icons=true&custom_title=GitHub%20Stats" height="200" width="53%" />
@@ -120,7 +120,7 @@
 
 ---
 
-## 💻 BOJ (Solved.ac)
+## BOJ (Solved.ac)
 
 <p align="center">
   <a href="https://solved.ac/ldy195112/">
@@ -130,7 +130,7 @@
 
 ---
 
-## ✉️ Contact
+## Contact
 
 <div align="center">
   <a href="mailto:ldy1951123@gmail.com">
