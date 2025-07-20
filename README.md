@@ -78,7 +78,7 @@
 | 프로젝트명 | 설명 | 주요 기술 | 기간 | 링크 |
 |------------|------|-----------|------|------|
 | 🛸 날리자KU | 드론 교육과 커뮤니티를 연결하는 학습·소통 웹사이트 (준비 중, Vercel 배포) | Next.js, TypeScript, Redux, Vercel | 2025.07~ | [사이트](https://nallijaku.com) |
-| 💻 Sound Of Memory | 나의 가치관과 말투를 복제한 AI가, 분산된 디지털 자산 통합·대외 소통 자동화 등 ‘개인화 AI 에이전트’로서 동작 (준비중) | Next.js, TypeScript, Redux  | 2025.06~ | [GitHub](https://github.com/Dongyeon0123/SoundOfMemory) |
+| 💻 Sound Of Memory | 나의 가치관과 말투를 복제한 AI가, 분산된 디지털 자산 통합·대외 소통 자동화 등 ‘개인화 AI 에이전트’로서 동작 (준비중) | Next.js, TypeScript, Redux  | 2025.06~ | [사이트](https://soundofmemory.io) |
 | 📱 UNIMEET | 대학생 대상 소셜 네트워킹 & 미팅 플랫폼 어플리케이션.<br>실시간 매칭·채팅·프로필 관리 등 다양한 커뮤니티 기능 제공 (준비중) | React Native, TypeScript, Redux | 2025.03~ | [GitHub](https://github.com/Dongyeon0123/UNIMEET) |
 | 🐙 React Todo 웹 | 리스트 추가, 수정, 삭제, 상태관리를 제공하는 할일 관리 앱 | React, Redux, useState, useEffect | 2025.03 ~ 2025.05 | [GitHub](https://github.com/Dongyeon0123/react-todolist) |
 | 📦 Youtube API 음악 플레이리스트 | 유튜브 API를 활용해 곡 CRUD·플레이리스트 관리 구현 | Java, Spring Boot | 2024.12 | [GitHub](https://github.com/Dongyeon0123/YouTube-API-Music) |
